@@ -1,6 +1,6 @@
 {
   "src": [
     "pages/Index",
-    "component/Page"
+    "pages/Page1"
   ]
 }
